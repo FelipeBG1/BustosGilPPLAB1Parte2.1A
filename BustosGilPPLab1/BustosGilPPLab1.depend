@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1589931243 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	<string.h>
+
+1589926856 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\validaciones.h
+
+1589985062 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	<string.h>
+	<ctype.h>
+	"Bicicletas.h"
+	"Trabajos.h"
+	"Informes.h"
+
+1589978163 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\bicicletas.h
+
+1589977445 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\trabajos.h
+
+1589982753 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	<string.h>
+	<ctype.h>
+	"Bicicletas.h"
+	"Trabajos.h"
+
+1589980184 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	<string.h>
+	<ctype.h>
+	"Bicicletas.h"
+
+1589974653 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\hardcodeo.h
+
+1589975066 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\hardcodeos.h
+
+1589985598 source:c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	<string.h>
+	<ctype.h>
+	"Bicicletas.h"
+	"Trabajos.h"
+	"Informes.h"
+
+1589984276 c:\users\felib\desktop\clases de programacion1 y laboratorio1\bustosgilpplab1\informes.h
+
